@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Tools
+## Tools
 *  [CyberChef](https://cyberchef.bluetickwarrior.com)
 
 *  [Text differ](https://textdiff.bluetickwarrior.com)
