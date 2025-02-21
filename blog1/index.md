@@ -2,8 +2,8 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
+## hello there, what brings you here?
+<!--
 [link to another page](./asdf.html).
 
 There should be whitespace between paragraphs.
@@ -121,3 +121,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
