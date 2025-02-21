@@ -1,8 +1,6 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 # Tools
 [CyberChef](https://cyberchef.bluetickwarrior.com)
 
