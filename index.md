@@ -15,6 +15,11 @@ layout: default
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
+
+[Don't click this](./blog1)
+
+
+<!--
 ### Header 3
 
 ```js
@@ -116,3 +121,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
