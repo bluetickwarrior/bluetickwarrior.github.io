@@ -2,11 +2,11 @@
 layout: default
 ---
 # Tools
-[CyberChef](https://cyberchef.bluetickwarrior.com)
+*  [CyberChef](https://cyberchef.bluetickwarrior.com)
 
-[Text differ](https://textdiff.bluetickwarrior.com)
+*  [Text differ](https://textdiff.bluetickwarrior.com)
 
-[Don't give up!](https://dontgiveup.bluetickwarrior.com)
+*  [Don't give up!](https://dontgiveup.bluetickwarrior.com)
 
 
 ## Posts
