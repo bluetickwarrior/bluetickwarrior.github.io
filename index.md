@@ -6,6 +6,8 @@ layout: default
 
 *  [Text differ](https://textdiff.bluetickwarrior.com)
 
+*  [Semgrep](https://semgrep.bluetickwarrior.com)
+
 *  [Don't give up!](https://dontgiveup.bluetickwarrior.com)
 
 
