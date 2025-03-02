@@ -6,7 +6,7 @@ layout: default
 
 *  [Text differ](https://textdiff.bluetickwarrior.com)
 
-*  [PE/ELF/Mach-O Metadata Extractor](https://peelfparser.bluetickwarrior.com)
+*  [PE/ELF Static Binary Triage](https://peelfparser.bluetickwarrior.com)
 
 *  [Don't give up!](https://dontgiveup.bluetickwarrior.com)
 
