@@ -8,6 +8,8 @@ layout: default
 
 *  [PE/ELF Static Binary Triage](https://peelfparser.bluetickwarrior.com)
 
+*  [SQLite Browser](https://sqlite.bluetickwarrior.com/)
+
 *  [Don't give up!](https://dontgiveup.bluetickwarrior.com)
 
 
