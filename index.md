@@ -4,7 +4,7 @@ layout: default
 ## Tools
 *  [CyberChef](https://cyberchef.bluetickwarrior.com)
 
-*  [Text differ](https://textdiff.bluetickwarrior.com)
+*  [File Differ](https://diff.bluetickwarrior.com)
 
 *  [PE/ELF Static Binary Triage](https://peelfparser.bluetickwarrior.com)
 
